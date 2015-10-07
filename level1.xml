@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!--XML file was written using XMLLevelWriter-->
+<!--objects' size is 40 x 40-->
+<level>
+    <file type="background" path="Data\Pole.jpg" />
+    <object type="background" dummy1="" dummy2="" />
+    <file type="cell" path="Data\Substrate.jpg" />
+    <object type="cell" x="0" y="0" />
+    <object type="cell" x="0" y="40" />
+    <object type="cell" x="0" y="80" />
+    <object type="cell" x="0" y="120" />
+    <object type="cell" x="0" y="160" />
+    <object type="cell" x="0" y="200" />
+    <object type="cell" x="0" y="240" />
+    <object type="cell" x="0" y="280" />
+    <object type="cell" x="0" y="320" />
+    <object type="cell" x="0" y="360" />
+    <object type="cell" x="0" y="400" />
+    <object type="cell" x="40" y="0" />
+    <object type="cell" x="40" y="40" />
+    <object type="cell" x="40" y="80" />
+    <object type="cell" x="40" y="120" />
+    <object type="cell" x="40" y="160" />
+    <object type="cell" x="40" y="200" />
+    <object type="cell" x="40" y="240" />
+    <object type="cell" x="40" y="280" />
+    <object type="cell" x="40" y="320" />
+    <object type="cell" x="40" y="360" />
+    <object type="cell" x="40" y="400" />
+    <object type="cell" x="80" y="0" />
+    <object type="cell" x="80" y="40" />
+    <object type="cell" x="80" y="80" />
+    <object type="cell" x="80" y="120" />
+    <object type="cell" x="80" y="160" />
+    <object type="cell" x="80" y="200" />
+    <object type="cell" x="80" y="240" />
+    <object type="cell" x="80" y="280" />
+    <object type="cell" x="80" y="320" />
+    <object type="cell" x="80" y="360" />
+    <object type="cell" x="80" y="400" />
+    <object type="cell" x="120" y="0" />
+    <object type="cell" x="120" y="40" />
+    <object type="cell" x="120" y="80" />
+    <object type="cell" x="120" y="240" />
+    <object type="cell" x="120" y="280" />
+    <object type="cell" x="120" y="320" />
+    <object type="cell" x="120" y="360" />
+    <object type="cell" x="120" y="400" />
+    <object type="cell" x="160" y="0" />
+    <object type="cell" x="160" y="40" />
+    <object type="cell" x="160" y="80" />
+    <object type="cell" x="160" y="240" />
+    <object type="cell" x="160" y="280" />
+    <object type="cell" x="160" y="320" />
+    <object type="cell" x="160" y="360" />
+    <object type="cell" x="160" y="400" />
+    <object type="cell" x="200" y="0" />
+    <object type="cell" x="200" y="40" />
+    <object type="cell" x="200" y="80" />
+    <object type="cell" x="200" y="240" />
+    <object type="cell" x="200" y="280" />
+    <object type="cell" x="200" y="320" />
+    <object type="cell" x="200" y="360" />
+    <object type="cell" x="200" y="400" />
+    <object type="cell" x="240" y="0" />
+    <object type="cell" x="240" y="40" />
+    <object type="cell" x="240" y="80" />
+    <object type="cell" x="240" y="240" />
+    <object type="cell" x="240" y="280" />
+    <object type="cell" x="240" y="320" />
+    <object type="cell" x="240" y="360" />
+    <object type="cell" x="240" y="400" />
+    <object type="cell" x="280" y="0" />
+    <object type="cell" x="280" y="40" />
+    <object type="cell" x="280" y="80" />
+    <object type="cell" x="280" y="240" />
+    <object type="cell" x="280" y="280" />
+    <object type="cell" x="280" y="320" />
+    <object type="cell" x="280" y="360" />
+    <object type="cell" x="280" y="400" />
+    <object type="cell" x="320" y="0" />
+    <object type="cell" x="320" y="40" />
+    <object type="cell" x="320" y="80" />
+    <object type="cell" x="320" y="120" />
+    <object type="cell" x="320" y="160" />
+    <object type="cell" x="320" y="200" />
+    <object type="cell" x="320" y="240" />
+    <object type="cell" x="320" y="280" />
+    <object type="cell" x="320" y="320" />
+    <object type="cell" x="320" y="360" />
+    <object type="cell" x="320" y="400" />
+    <object type="cell" x="360" y="0" />
+    <object type="cell" x="360" y="40" />
+    <object type="cell" x="360" y="80" />
+    <object type="cell" x="360" y="120" />
+    <object type="cell" x="360" y="160" />
+    <object type="cell" x="360" y="200" />
+    <object type="cell" x="360" y="240" />
+    <object type="cell" x="360" y="280" />
+    <object type="cell" x="360" y="320" />
+    <object type="cell" x="360" y="360" />
+    <object type="cell" x="360" y="400" />
+    <object type="cell" x="400" y="0" />
+    <object type="cell" x="400" y="40" />
+    <object type="cell" x="400" y="80" />
+    <object type="cell" x="400" y="120" />
+    <object type="cell" x="400" y="160" />
+    <object type="cell" x="400" y="200" />
+    <object type="cell" x="400" y="240" />
+    <object type="cell" x="400" y="280" />
+    <object type="cell" x="400" y="320" />
+    <object type="cell" x="400" y="360" />
+    <object type="cell" x="400" y="400" />
+    <file type="gold" path="Data\Chips\gold.png" />
+    <object type="gold" x="0" y="160" />
+    <object type="gold" x="40" y="280" />
+    <object type="gold" x="80" y="0" />
+    <object type="gold" x="80" y="40" />
+    <object type="gold" x="80" y="240" />
+    <object type="gold" x="80" y="360" />
+    <object type="gold" x="80" y="400" />
+    <object type="gold" x="160" y="80" />
+    <object type="gold" x="200" y="80" />
+    <object type="gold" x="240" y="360" />
+    <object type="gold" x="280" y="400" />
+    <object type="gold" x="320" y="40" />
+    <object type="gold" x="320" y="80" />
+    <object type="gold" x="320" y="280" />
+    <object type="gold" x="360" y="360" />
+    <object type="gold" x="400" y="40" />
+    <file type="ruby" path="Data\Chips\ruby.png" />
+    <object type="ruby" x="0" y="0" />
+    <object type="ruby" x="0" y="40" />
+    <object type="ruby" x="40" y="120" />
+    <object type="ruby" x="40" y="160" />
+    <object type="ruby" x="80" y="80" />
+    <object type="ruby" x="80" y="120" />
+    <object type="ruby" x="80" y="320" />
+    <object type="ruby" x="120" y="40" />
+    <object type="ruby" x="120" y="240" />
+    <object type="ruby" x="120" y="280" />
+    <object type="ruby" x="160" y="0" />
+    <object type="ruby" x="160" y="40" />
+    <object type="ruby" x="200" y="0" />
+    <object type="ruby" x="200" y="320" />
+    <object type="ruby" x="240" y="240" />
+    <object type="ruby" x="280" y="40" />
+    <object type="ruby" x="280" y="80" />
+    <object type="ruby" x="280" y="280" />
+    <object type="ruby" x="320" y="0" />
+    <object type="ruby" x="320" y="160" />
+    <object type="ruby" x="360" y="0" />
+    <object type="ruby" x="360" y="240" />
+    <object type="ruby" x="360" y="400" />
+    <object type="ruby" x="400" y="120" />
+    <object type="ruby" x="400" y="320" />
+    <object type="ruby" x="400" y="400" />
+    <file type="helmet" path="Data\Chips\helmet.png" />
+    <object type="helmet" x="0" y="80" />
+    <object type="helmet" x="0" y="320" />
+    <object type="helmet" x="40" y="0" />
+    <object type="helmet" x="40" y="80" />
+    <object type="helmet" x="40" y="360" />
+    <object type="helmet" x="80" y="160" />
+    <object type="helmet" x="120" y="80" />
+    <object type="helmet" x="120" y="400" />
+    <object type="helmet" x="160" y="280" />
+    <object type="helmet" x="200" y="40" />
+    <object type="helmet" x="200" y="240" />
+    <object type="helmet" x="200" y="400" />
+    <object type="helmet" x="240" y="80" />
+    <object type="helmet" x="240" y="400" />
+    <object type="helmet" x="280" y="0" />
+    <object type="helmet" x="280" y="320" />
+    <object type="helmet" x="320" y="360" />
+    <object type="helmet" x="320" y="400" />
+    <object type="helmet" x="360" y="40" />
+    <object type="helmet" x="360" y="160" />
+    <object type="helmet" x="360" y="200" />
+    <object type="helmet" x="400" y="0" />
+    <object type="helmet" x="400" y="80" />
+    <object type="helmet" x="400" y="280" />
+    <object type="helmet" x="400" y="360" />
+    <file type="green sun" path="Data\Chips\greensun.png" />
+    <object type="green sun" x="0" y="120" />
+    <object type="green sun" x="0" y="200" />
+    <object type="green sun" x="0" y="240" />
+    <object type="green sun" x="0" y="360" />
+    <object type="green sun" x="0" y="400" />
+    <object type="green sun" x="40" y="40" />
+    <object type="green sun" x="40" y="200" />
+    <object type="green sun" x="40" y="240" />
+    <object type="green sun" x="40" y="320" />
+    <object type="green sun" x="120" y="320" />
+    <object type="green sun" x="160" y="360" />
+    <object type="green sun" x="280" y="240" />
+    <object type="green sun" x="280" y="360" />
+    <object type="green sun" x="320" y="120" />
+    <object type="green sun" x="320" y="200" />
+    <object type="green sun" x="320" y="320" />
+    <object type="green sun" x="360" y="280" />
+    <object type="green sun" x="400" y="240" />
+    <file type="seashell" path="Data\Chips\seashell.png" />
+    <object type="seashell" x="0" y="280" />
+    <object type="seashell" x="40" y="400" />
+    <object type="seashell" x="80" y="200" />
+    <object type="seashell" x="120" y="0" />
+    <object type="seashell" x="120" y="360" />
+    <object type="seashell" x="160" y="240" />
+    <object type="seashell" x="160" y="320" />
+    <object type="seashell" x="160" y="400" />
+    <object type="seashell" x="200" y="280" />
+    <object type="seashell" x="200" y="360" />
+    <object type="seashell" x="240" y="0" />
+    <object type="seashell" x="240" y="280" />
+    <object type="seashell" x="320" y="240" />
+    <object type="seashell" x="360" y="120" />
+    <object type="seashell" x="360" y="320" />
+    <object type="seashell" x="400" y="160" />
+    <object type="seashell" x="400" y="200" />
+    <file type="lock" path="Data\Lock.png" />
+    <object type="lock" x="40" y="80" />
+    <object type="lock" x="160" y="40" />
+    <object type="lock" x="320" y="0" />
+    <file type="sun p1" path="Data\Sun pieces\1.png" />
+    <object type="sun p1" x="240" y="40" />
+    <file type="sun p2" path="Data\Sun pieces\2.png" />
+    <object type="sun p2" x="360" y="80" />
+    <file type="sun p3" path="Data\Sun pieces\3.png" />
+    <object type="sun p3" x="80" y="280" />
+    <file type="sun p4" path="Data\Sun pieces\4.png" />
+    <object type="sun p4" x="240" y="320" />
+</level>
